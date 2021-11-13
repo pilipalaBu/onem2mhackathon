@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"name": "esp32",
+			"path": ".."
+		},
+		{
+			"path": "D:\\AAiot1-esp32-master\\iot1-esp32-master"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"initializer_list": "cpp",
+			"list": "cpp",
+			"regex": "cpp",
+			"vector": "cpp",
+			"xhash": "cpp",
+			"xstring": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"algorithm": "cpp",
+			"iomanip": "cpp",
+			"xlocmon": "cpp",
+			"xlocnum": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"cstdlib": "cpp"
+		}
+	}
+}
